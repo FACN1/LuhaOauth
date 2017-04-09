@@ -1,2 +1,4 @@
 node_modules
 keys
+config.env
+npm-debug.log
